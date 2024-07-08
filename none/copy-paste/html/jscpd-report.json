@@ -1,0 +1,637 @@
+{
+  "statistics": {
+    "detectionDate": "2024-07-08T20:04:41.465Z",
+    "formats": {
+      "javascript": {
+        "sources": {
+          "action/test/parse/pre-release.js": {
+            "lines": 100,
+            "tokens": 799,
+            "sources": 1,
+            "clones": 2,
+            "duplicatedLines": 12,
+            "duplicatedTokens": 136,
+            "percentage": 12,
+            "percentageTokens": 17.02,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/test/parse/match-target.js": {
+            "lines": 141,
+            "tokens": 1360,
+            "sources": 1,
+            "clones": 7,
+            "duplicatedLines": 73,
+            "duplicatedTokens": 762,
+            "percentage": 51.77,
+            "percentageTokens": 56.03,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/test/parse/invalid-title.js": {
+            "lines": 43,
+            "tokens": 352,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/test/parse/dependency-types.js": {
+            "lines": 167,
+            "tokens": 1144,
+            "sources": 1,
+            "clones": 10,
+            "duplicatedLines": 116,
+            "duplicatedTokens": 802,
+            "percentage": 69.46,
+            "percentageTokens": 70.1,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/test/parse/dep-name.js": {
+            "lines": 106,
+            "tokens": 1081,
+            "sources": 1,
+            "clones": 5,
+            "duplicatedLines": 45,
+            "duplicatedTokens": 566,
+            "percentage": 42.45,
+            "percentageTokens": 52.36,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/test/parse/config-parse.js": {
+            "lines": 137,
+            "tokens": 1010,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/test/parse/config-load.js": {
+            "lines": 57,
+            "tokens": 503,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/test/cli/early-exit.js": {
+            "lines": 30,
+            "tokens": 256,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/lib/parse.js": {
+            "lines": 150,
+            "tokens": 1112,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/lib/index.js": {
+            "lines": 34,
+            "tokens": 294,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/lib/dependencies.js": {
+            "lines": 17,
+            "tokens": 122,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/lib/config.js": {
+            "lines": 27,
+            "tokens": 223,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/lib/api.js": {
+            "lines": 15,
+            "tokens": 128,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "action/index.js": {
+            "lines": 52,
+            "tokens": 463,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          }
+        },
+        "total": {
+          "lines": 1076,
+          "tokens": 8847,
+          "sources": 14,
+          "clones": 12,
+          "duplicatedLines": 123,
+          "duplicatedTokens": 1133,
+          "percentage": 11.43,
+          "percentageTokens": 12.81,
+          "newDuplicatedLines": 0,
+          "newClones": 0
+        }
+      }
+    },
+    "total": {
+      "lines": 1076,
+      "tokens": 8847,
+      "sources": 14,
+      "clones": 12,
+      "duplicatedLines": 123,
+      "duplicatedTokens": 1133,
+      "percentage": 11.43,
+      "percentageTokens": 12.81,
+      "newDuplicatedLines": 0,
+      "newClones": 0
+    }
+  },
+  "duplicates": [
+    {
+      "format": "javascript",
+      "lines": 7,
+      "fragment": ")\n  }\n\n  assert.ok(parse(options))\n  assert.ok(core.info.called)\n  assert.equal(core.info.getCall(3)?.firstArg, &#x27;to: 6.1.4-prerelease&#x27;)\n  assert.equal(core.info.getCall(7)?.firstArg, &#x27;all:semver:major detected, will auto-merge&#x27;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/pre-release.js",
+        "start": 38,
+        "end": 44,
+        "startLoc": {
+          "line": 38,
+          "column": 8,
+          "position": 285
+        },
+        "endLoc": {
+          "line": 44,
+          "column": 45,
+          "position": 353
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/pre-release.js",
+        "start": 20,
+        "end": 26,
+        "startLoc": {
+          "line": 20,
+          "column": 11,
+          "position": 141
+        },
+        "endLoc": {
+          "line": 26,
+          "column": 48,
+          "position": 209
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 14,
+      "fragment": "core.info.restore()\n  fs.existsSync.restore()\n})\n\ntap.test(&#x27;title -&gt; in range, no from&#x27;, async assert =&gt; {\n  assert.plan(8)\n\n  sinon.stub(core, &#x27;info&#x27;)\n  &#x2f;&#x2f; sinon.stub(core, &#x27;warning&#x27;)\n  sinon.stub(fs, &#x27;existsSync&#x27;).returns(false)\n\n  const options = {\n    title: &#x27;Update actions&#x2f;setup-python requirement to v2.1.4 in &#x2f;path&#x27;,\n    config: config(&#x27;semver:all&#x27;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/match-target.js",
+        "start": 64,
+        "end": 77,
+        "startLoc": {
+          "line": 64,
+          "column": 3,
+          "position": 581
+        },
+        "endLoc": {
+          "line": 77,
+          "column": 13,
+          "position": 679
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/match-target.js",
+        "start": 37,
+        "end": 50,
+        "startLoc": {
+          "line": 37,
+          "column": 3,
+          "position": 319
+        },
+        "endLoc": {
+          "line": 50,
+          "column": 6,
+          "position": 417
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 11,
+      "fragment": ")\n  }\n\n  assert.ok(parse(options))\n  assert.ok(core.info.called)\n  &#x2f;&#x2f; assert.ok(core.warning.called)\n  assert.equal(core.info.getCall(0)?.firstArg, &#x27;title: &quot;Update actions&#x2f;setup-python requirement to v2.1.4 in &#x2f;path&quot;&#x27;)\n  assert.equal(core.info.getCall(1)?.firstArg, &#x27;depName: actions&#x2f;setup-python&#x27;)\n  assert.equal(core.info.getCall(2)?.firstArg, &#x27;from: unknown&#x27;)\n  assert.equal(core.info.getCall(3)?.firstArg, &#x27;to: 2.1.4&#x27;)\n  assert.equal(core.info.getCall(6)?.firstArg, &#x27;config: all:semver:all&#x27;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/match-target.js",
+        "start": 77,
+        "end": 87,
+        "startLoc": {
+          "line": 77,
+          "column": 13,
+          "position": 680
+        },
+        "endLoc": {
+          "line": 87,
+          "column": 25,
+          "position": 814
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/match-target.js",
+        "start": 50,
+        "end": 60,
+        "startLoc": {
+          "line": 50,
+          "column": 6,
+          "position": 418
+        },
+        "endLoc": {
+          "line": 60,
+          "column": 18,
+          "position": 552
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 13,
+      "fragment": ",\n    dependencies: dependencies.prod,\n    config\n  }\n\n  assert.ok(parse(options))\n  assert.ok(core.info.called)\n  assert.equal(core.info.getCall(5)?.firstArg, &#x27;security critical: true&#x27;)\n\n  core.info.restore()\n})\n\ntap.test(&#x27;labels -&gt; security tag is detected&#x27;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 49,
+        "end": 61,
+        "startLoc": {
+          "line": 49,
+          "column": 72,
+          "position": 306
+        },
+        "endLoc": {
+          "line": 61,
+          "column": 37,
+          "position": 386
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 31,
+        "end": 43,
+        "startLoc": {
+          "line": 31,
+          "column": 59,
+          "position": 180
+        },
+        "endLoc": {
+          "line": 43,
+          "column": 59,
+          "position": 260
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 13,
+      "fragment": ",\n    dependencies: dependencies.prod,\n    config\n  }\n\n  assert.ok(parse(options))\n  assert.ok(core.info.called)\n  assert.equal(core.info.getCall(5)?.firstArg, &#x27;security critical: true&#x27;)\n\n  core.info.restore()\n})\n\ntap.test(&#x27;labels -&gt; not security-critical update is detected&#x27;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 68,
+        "end": 80,
+        "startLoc": {
+          "line": 68,
+          "column": 2,
+          "position": 441
+        },
+        "endLoc": {
+          "line": 80,
+          "column": 53,
+          "position": 521
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 31,
+        "end": 43,
+        "startLoc": {
+          "line": 31,
+          "column": 59,
+          "position": 180
+        },
+        "endLoc": {
+          "line": 43,
+          "column": 59,
+          "position": 260
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 12,
+      "fragment": ",\n    config\n  }\n\n  assert.ok(parse(options))\n  assert.ok(core.info.called)\n  assert.equal(core.info.getCall(4)?.firstArg, &#x27;dependency type: development&#x27;)\n\n  core.info.restore()\n})\n\ntap.test(&#x27;title -&gt; dependency is detected as production dependency (package.json)&#x27;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 141,
+        "end": 152,
+        "startLoc": {
+          "line": 141,
+          "column": 4,
+          "position": 954
+        },
+        "endLoc": {
+          "line": 152,
+          "column": 74,
+          "position": 1025
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 105,
+        "end": 116,
+        "startLoc": {
+          "line": 105,
+          "column": 5,
+          "position": 702
+        },
+        "endLoc": {
+          "line": 116,
+          "column": 76,
+          "position": 773
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 14,
+      "fragment": ", async assert =&gt; {\n  assert.plan(3)\n\n  sinon.stub(core, &#x27;info&#x27;)\n\n  const options = {\n    title: &#x27;Bump api-problem from 6.1.2 to 6.1.4 in &#x2f;path&#x27;,\n    dependencies: dependencies.prod,\n    config\n  }\n\n  assert.ok(parse(options))\n  assert.ok(core.info.called)\n  assert.equal(core.info.getCall(4",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 152,
+        "end": 165,
+        "startLoc": {
+          "line": 152,
+          "column": 74,
+          "position": 1026
+        },
+        "endLoc": {
+          "line": 165,
+          "column": 2,
+          "position": 1123
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 80,
+        "end": 93,
+        "startLoc": {
+          "line": 80,
+          "column": 53,
+          "position": 522
+        },
+        "endLoc": {
+          "line": 93,
+          "column": 2,
+          "position": 619
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 11,
+      "fragment": ",\n    dependencies: dependencies.prod,\n    config\n  }\n\n  assert.ok(parse(options))\n  assert.ok(core.info.called)\n  assert.equal(core.info.getCall(4)?.firstArg, &#x27;dependency type: production&#x27;)\n\n  core.info.restore()\n})",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 158,
+        "end": 168,
+        "startLoc": {
+          "line": 158,
+          "column": 48,
+          "position": 1071
+        },
+        "endLoc": {
+          "line": 168,
+          "column": 2,
+          "position": 1144
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/dependency-types.js",
+        "start": 122,
+        "end": 132,
+        "startLoc": {
+          "line": 122,
+          "column": 61,
+          "position": 819
+        },
+        "endLoc": {
+          "line": 132,
+          "column": 2,
+          "position": 892
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 12,
+      "fragment": "} }]\n}\n\ntap.test(&#x27;title -&gt; in range&#x27;, async assert =&gt; {\n  assert.plan(8)\n\n  sinon.stub(core, &#x27;info&#x27;)\n  sinon.stub(fs, &#x27;existsSync&#x27;).returns(false)\n\n  const options = {\n    title: &#x27;chore(deps): bump api-problem from 6.1.2 to 6.1.4 in &#x2f;path&#x27;,\n    config: config(&#x27;api-problem&#x27;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/dep-name.js",
+        "start": 12,
+        "end": 23,
+        "startLoc": {
+          "line": 12,
+          "column": 2,
+          "position": 86
+        },
+        "endLoc": {
+          "line": 23,
+          "column": 14,
+          "position": 168
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/match-target.js",
+        "start": 14,
+        "end": 25,
+        "startLoc": {
+          "line": 14,
+          "column": 2,
+          "position": 79
+        },
+        "endLoc": {
+          "line": 25,
+          "column": 15,
+          "position": 161
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 10,
+      "fragment": ")\n  }\n\n  assert.ok(parse(options))\n  assert.ok(core.info.called)\n  assert.equal(core.info.getCall(0)?.firstArg, &#x27;title: &quot;chore(deps): bump api-problem from 6.1.2 to 6.1.4 in &#x2f;path&quot;&#x27;)\n  assert.equal(core.info.getCall(1)?.firstArg, &#x27;depName: api-problem&#x27;)\n  assert.equal(core.info.getCall(2)?.firstArg, &#x27;from: 6.1.2&#x27;)\n  assert.equal(core.info.getCall(3)?.firstArg, &#x27;to: 6.1.4&#x27;)\n  assert.equal(core.info.getCall(6)?.firstArg, &#x27;config: api-problem:semver:major&#x27;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/dep-name.js",
+        "start": 23,
+        "end": 32,
+        "startLoc": {
+          "line": 23,
+          "column": 8,
+          "position": 172
+        },
+        "endLoc": {
+          "line": 32,
+          "column": 35,
+          "position": 303
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/match-target.js",
+        "start": 25,
+        "end": 34,
+        "startLoc": {
+          "line": 25,
+          "column": 15,
+          "position": 162
+        },
+        "endLoc": {
+          "line": 34,
+          "column": 27,
+          "position": 293
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 10,
+      "fragment": ", &#x27;major&#x27;)\n  }\n\n  assert.ok(parse(options))\n  assert.ok(core.info.called)\n  assert.equal(core.info.getCall(0)?.firstArg, &#x27;title: &quot;chore(deps): bump api-problem from 6.1.2 to 6.1.4 in &#x2f;path&quot;&#x27;)\n  assert.equal(core.info.getCall(1)?.firstArg, &#x27;depName: api-problem&#x27;)\n  assert.equal(core.info.getCall(2)?.firstArg, &#x27;from: 6.1.2&#x27;)\n  assert.equal(core.info.getCall(3)?.firstArg, &#x27;to: 6.1.4&#x27;)\n  assert.equal(core.info.getCall(6)?.firstArg, &#x27;config: api-prob*:semver:major&#x27;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/dep-name.js",
+        "start": 47,
+        "end": 56,
+        "startLoc": {
+          "line": 47,
+          "column": 12,
+          "position": 425
+        },
+        "endLoc": {
+          "line": 56,
+          "column": 33,
+          "position": 559
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/dep-name.js",
+        "start": 23,
+        "end": 34,
+        "startLoc": {
+          "line": 23,
+          "column": 14,
+          "position": 169
+        },
+        "endLoc": {
+          "line": 34,
+          "column": 27,
+          "position": 293
+        }
+      }
+    },
+    {
+      "format": "javascript",
+      "lines": 8,
+      "fragment": ")\n  }\n\n  assert.notOk(parse(options), false)\n  assert.ok(core.info.called)\n  assert.equal(core.info.getCall(2)?.firstArg, &#x27;from: 6.1.2&#x27;)\n  assert.equal(core.info.getCall(3)?.firstArg, &#x27;to: 7.0.0&#x27;)\n  assert.equal(core.info.getCall(6",
+      "tokens": 0,
+      "firstFile": {
+        "name": "action/test/parse/dep-name.js",
+        "start": 71,
+        "end": 78,
+        "startLoc": {
+          "line": 71,
+          "column": 8,
+          "position": 684
+        },
+        "endLoc": {
+          "line": 78,
+          "column": 2,
+          "position": 769
+        }
+      },
+      "secondFile": {
+        "name": "action/test/parse/match-target.js",
+        "start": 103,
+        "end": 110,
+        "startLoc": {
+          "line": 103,
+          "column": 15,
+          "position": 939
+        },
+        "endLoc": {
+          "line": 110,
+          "column": 2,
+          "position": 1024
+        }
+      }
+    }
+  ]
+}
