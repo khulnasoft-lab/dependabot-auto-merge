@@ -17,7 +17,7 @@ services:
   # ---- readme generator ---- #
   readme:
     profiles: ["dev"]
-    image: pandoc/minimal:3.2.1
+    image: pandoc/minimal:3.3.0
     volumes:
       - ./:/data
     command: --defaults=.pandoc.yml
